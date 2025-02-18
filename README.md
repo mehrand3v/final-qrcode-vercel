@@ -1,2 +1,1 @@
-# final-qrcode-vercel
-only for vercel deployment
+# quick-response
